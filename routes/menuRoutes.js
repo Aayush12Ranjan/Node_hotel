@@ -27,4 +27,6 @@ router.get('/', async (req, res) => {
     }
 });
 
+// for the testing purpose
+
 module.exports=router;
